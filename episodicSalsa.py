@@ -12,7 +12,7 @@ class Montana:
     def terminal(self):
         if self.x >= 0.5:
             return True
-        else
+        else:
             return False
 
     def transition(self, action):
